@@ -1,4 +1,4 @@
-This repository is a basic HTML template for Expense Tracker Application Interface as required below:
+This repository is a basic HTML template for Expense Tracker Application Interface as required to
 Design a basic HTML template for the Expense Tracker Application interface.
     Your page should include the below:
 
@@ -12,3 +12,5 @@ Design a basic HTML template for the Expense Tracker Application interface.
     8. table displaying common user information: name, email, phone number.
     9. an image
     10. an external link to https://google.com
+
+    My submission is in the introduction folder. Thank you
